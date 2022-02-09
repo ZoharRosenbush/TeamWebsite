@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/TeamWebsite%E2%80%8B/static/css/main.a9735905.css",
-    "main.js": "/TeamWebsite%E2%80%8B/static/js/main.373cc8d7.js",
-    "static/js/787.edd59a96.chunk.js": "/TeamWebsite%E2%80%8B/static/js/787.edd59a96.chunk.js",
-    "static/media/Livvic-MediumItalic.ttf": "/TeamWebsite%E2%80%8B/static/media/Livvic-MediumItalic.c388d554d36321255ab9.ttf",
-    "static/media/Livvic-Bold.ttf": "/TeamWebsite%E2%80%8B/static/media/Livvic-Bold.089af19ac41ce144a96c.ttf",
-    "static/media/Livvic-SemiBold.ttf": "/TeamWebsite%E2%80%8B/static/media/Livvic-SemiBold.c79c53d29c413ab69adb.ttf",
-    "static/media/CompanyLogo.svg": "/TeamWebsite%E2%80%8B/static/media/CompanyLogo.9e687f65b84bdaad178f8a42a249e298.svg",
-    "static/media/IconQuotes.svg": "/TeamWebsite%E2%80%8B/static/media/IconQuotes.ddf18b37d8727d0310126a1f5b9fb08e.svg",
-    "static/media/PatternHome.svg": "/TeamWebsite%E2%80%8B/static/media/PatternHome.889d5d8c448ed043a71bd7e91e884388.svg",
-    "index.html": "/TeamWebsite%E2%80%8B/index.html",
-    "main.a9735905.css.map": "/TeamWebsite%E2%80%8B/static/css/main.a9735905.css.map",
-    "main.373cc8d7.js.map": "/TeamWebsite%E2%80%8B/static/js/main.373cc8d7.js.map",
-    "787.edd59a96.chunk.js.map": "/TeamWebsite%E2%80%8B/static/js/787.edd59a96.chunk.js.map"
+    "main.css": "/TeamWebsite/static/css/main.a0727a63.css",
+    "main.js": "/TeamWebsite/static/js/main.f5f0170a.js",
+    "static/js/787.edd59a96.chunk.js": "/TeamWebsite/static/js/787.edd59a96.chunk.js",
+    "static/media/Livvic-MediumItalic.ttf": "/TeamWebsite/static/media/Livvic-MediumItalic.c388d554d36321255ab9.ttf",
+    "static/media/Livvic-Bold.ttf": "/TeamWebsite/static/media/Livvic-Bold.089af19ac41ce144a96c.ttf",
+    "static/media/Livvic-SemiBold.ttf": "/TeamWebsite/static/media/Livvic-SemiBold.c79c53d29c413ab69adb.ttf",
+    "static/media/CompanyLogo.svg": "/TeamWebsite/static/media/CompanyLogo.9e687f65b84bdaad178f8a42a249e298.svg",
+    "static/media/IconQuotes.svg": "/TeamWebsite/static/media/IconQuotes.ddf18b37d8727d0310126a1f5b9fb08e.svg",
+    "static/media/PatternHome.svg": "/TeamWebsite/static/media/PatternHome.889d5d8c448ed043a71bd7e91e884388.svg",
+    "index.html": "/TeamWebsite/index.html",
+    "main.a0727a63.css.map": "/TeamWebsite/static/css/main.a0727a63.css.map",
+    "main.f5f0170a.js.map": "/TeamWebsite/static/js/main.f5f0170a.js.map",
+    "787.edd59a96.chunk.js.map": "/TeamWebsite/static/js/787.edd59a96.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9735905.css",
-    "static/js/main.373cc8d7.js"
+    "static/css/main.a0727a63.css",
+    "static/js/main.f5f0170a.js"
   ]
 }
